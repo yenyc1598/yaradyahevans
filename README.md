@@ -12,12 +12,6 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Yaradyah | Twitter" width"22px" src="https://cdn.yaradyahevans.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Yaradyah | Linkedin" width"22px" src="https://cdn.yaradyahevans.net/npm/simple-icon@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Yaradyah | Instagram" width"22px" src="https://cdn.yardayahevans.net/npm/simple-icon@v3/icons/instagram.svg"/>][instagram]
-
-[twitter]: https://twiiter.com/yaradyah
-[instagram]: https://www.instagram.com/yaradyah
-[linkedin]: https://www.linkedin.com/in/Yaradyah
+[linkedin]: https://www.linkedin.com/in/yaradyah-evans-a508b7224/
 
   
